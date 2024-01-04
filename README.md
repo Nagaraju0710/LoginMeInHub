@@ -1,8 +1,6 @@
 # LoginMeInHub
 
 
-# PHLOX
-PHLOX is one of the largest Electronics e-commerce stores in India that deals with a wide range of watch's and lifestyle products for men, women, and kids. It sells high-quality Watch's, Laptops, Ear Phone and Gaming Console, Tab's care, home and living accessories, and more.
 
 A Individual project built by one members executed in 5 days.
 
@@ -14,7 +12,11 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+### `Frontend deployed link`
+
+`https://frontend-kfnp1dbc6-nagaraju0710.vercel.app `
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
@@ -23,6 +25,10 @@ You may also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `BAckend deployed link`
+
+`https://carmine-termite-wear.cyclic.app/contact`
 
 ### `npm run build`
 
@@ -44,59 +50,30 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-# JSON Server
-
-https://reactmonkeyapi.onrender.com/
 
 # Tech Stack 💻
-
+HTML5
+CSS3
+Javascript
 REACT
-
 CHAKRA UI
 
-Javascript
+MongoDb
+Node JS
+Express JS
 
 # Features
 
-- Authentication process undercover with Local Storage.
+- Authentication process Login and SignUp.
 
-- Dynamic Products, Wishlist page using locally created json data.
+- Auth user can access the all user Page .
 
-- All the product description, prices, are updated in real time.
+- Auth user can only edit user and delete and upadate  .
 
 # Responsiility
-- Landing page UI consisting of megadrown navbar, carasouel, animated image cards and authentications i.e.; Login & Register.
-- Implementation of local storage on authentications.
-- Address, payment, checkout done with using local storage concepts and CHAKRA-UI css 
+- Total project done by me.
 
 # Snap Shots 📷
-
-HomePage
-
-This is the homepage of our Project. in this homepage we have a navigation bar, on clicking any option on the navigation bar it will navigate to the others pages on websites.
-
-![HomePage](https://i.postimg.cc/vBqq0hGz/Homepage2.png)
-
-
-Shop's Page
-
-![Shop's Page](https://i.postimg.cc/3NN6h6tV/Products.png)
-
-Ear phone Products 
-
-![Ear phone Products](https://i.postimg.cc/tJ9qzXCP/Earphone.png)
-
-Laptop's
-
-![Laptop's](https://i.postimg.cc/W4fgKHJh/laptops.png)
-
-Watch's
-
-![Watch's](https://i.postimg.cc/QCdm5T5T/Watch-s.png)
-
-Single Product Page
-
-![Single Product Page](https://i.postimg.cc/qBwZRknK/Single-PRODUCT.png)
 
 Sign in
 
@@ -107,12 +84,20 @@ Login Page
 ![loginPage](https://i.postimg.cc/15Z59rGX/Login.png)
 
 
-Cart Page
+All user Page
 
 ![cartPage](https://i.postimg.cc/fyzXpQRn/Cart.png)
 
+New User Page
+
+
+
+Edit User Page
+
+
+
 # Contributor 😇
-👤 Nagaraju (fp10_226)
+👤 Nagaraju Lonka
 
 
 
