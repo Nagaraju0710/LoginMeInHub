@@ -1,5 +1,7 @@
 # LoginMeInHub
 
+My application supports essential user management features, enabling users to register, log in, and perform various operations on user profiles.
+The CRUD functionality allows for the seamless management of user data, enhancing the overall user experience.
 
 
 A Individual project built by one members executed in 5 days.
@@ -73,6 +75,13 @@ Express JS
 # Responsiility
 - Total project done by me.
 
+# Potential Next Steps:
+   
+Enhance security measures, such as password hashing and secure authentication protocols (e.g., JWT).
+Implement user roles and permissions for more fine-grained access control.
+Improve the user interface for a more polished and user-friendly experience.
+Add additional features based on your project's requirements.
+
 # Snap Shots 📷
 
 Sign in
@@ -89,13 +98,16 @@ Login Page
 
 All user Page
 
-![cartPage](https://i.postimg.cc/fyzXpQRn/Cart.png)
+![Screenshot (25)](https://github.com/Nagaraju0710/LoginMeInHub/assets/112071699/d1817d99-c704-4716-8637-87de446577cf)
 
-New User Page
+Add New User Page
 
-
+![Screenshot (27)](https://github.com/Nagaraju0710/LoginMeInHub/assets/112071699/f425146e-7815-4db7-8c16-c63262fc3346)
 
 Edit User Page
+
+![Screenshot (26)](https://github.com/Nagaraju0710/LoginMeInHub/assets/112071699/b64a0697-a2c6-4e2e-9954-62b71d03dc1f)
+
 
 
 
